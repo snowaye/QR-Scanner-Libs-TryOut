@@ -19,4 +19,4 @@ https://androiddvlpr.com/android-qr-code-scanner-library/
 
 
 ## Snapshot
-
+![Screenshot_20211019-174450_QR Libs TryOut](https://user-images.githubusercontent.com/20620501/137907249-68c77c2b-4336-4851-8e3d-a4e4a5c52f92.jpg)
