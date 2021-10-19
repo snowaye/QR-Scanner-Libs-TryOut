@@ -1,6 +1,10 @@
 # QR-Scanner-Libs-TryOut
 
-When I worked on an app that soley rely on QR Code to insert new entries, there's a difficulty that some QR code cannot be scanned flawlessly. So, I tried out many QR scanner libraries to find out the best suited library for my project.
+When I worked on an app that soley rely on QR Code to insert new entries, there's a difficulty that some QR code cannot be scanned flawlessly. So, I tried out many QR scanner libraries to find out the best suited library for my project. 
+
+It sounds easy but actually it takes time testing a library even if there's sample run for the library. :tired_face:
+
+If there's someone out there needed to attempt qr scanner libraries like I did, I hope this repo will be a bit helpful place. :orange_heart: :blue_heart:
 
 
 ## QR Libraries that I used
