@@ -1,8 +1,7 @@
 <resources>
-    <string name="app_name">QR Libs TryOut</string>
-    <string name="lbl_title">QR Libraries Try-Out</string>
-    <string name="lbl_scan_by">Scan By following Library so that<br/>scan result textview will be filled in:</string>
-    <string name="hint_scan_result">Scan result will be shown here</string>
+    <string name="app_name">QR Libs</string>
+    <string name="lbl_scan_by">Scan By following Library so that<br /> scan result textview will be filled in:</string>
+    <string name="hint_scan_result">&#8195; &#8195; Scan result will be shown here</string>
     <string name="btn_zxing">ZXing</string>
     <string name="btn_code_scanner">Code Scanner</string>
     <string name="btn_reader_view">QR Code Reader View</string>
@@ -10,4 +9,5 @@
     <string name="btn_qr_parse">QR Parse</string>
     <string name="btn_firebase_qr">Firebase QR</string>
     <string name="btn_mobile_vision">Mobile Vision</string>
+    <string name="lbl_permission_denied">Permission Denied!</string>
 </resources>

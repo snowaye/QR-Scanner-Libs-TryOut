@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     package="mm.com.solutionbasket.qrlibstryout">
+
+
+    <uses-feature android:name="android.hardware.camera" />
+
+    <uses-permission android:name="android.permission.CAMERA" />
 
     <application
         android:allowBackup="true"
@@ -9,6 +15,15 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.QRLibsTryOut">
+        <activity android:name=".MLScannerActivity"></activity>
+
+
+        <activity android:name=".QrParserActivity" />
+        <activity android:name=".MobileVisionActivity" />
+        <activity android:name=".QrReaderActivity" />
+        <activity android:name=".QrReaderViewActivity" />
+        <activity android:name=".CodeScannerActivity" />
+        <activity android:name=".ZxingActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
